@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="403b49dc-bde6-4abc-9e6b-30ff65a45412" name="kowsarlib" url="http://kowsarlib.giln.ir">
+        <fileTransfer rootFolder="/public_html" host="kowsarlib.giln.ir" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
